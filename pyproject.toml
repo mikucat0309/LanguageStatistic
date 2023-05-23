@@ -9,7 +9,7 @@ authors = ["mikucat0309 <47076023+mikucat0309@users.noreply.github.com>"]
 python = "^3.10"
 pandas = "^1.5.2"
 matplotlib = "^3.6.2"
-requests = "^2.28.1"
+requests = "^2.31.0"
 pygobject = "^3.42.2"
 pycairo = "^1.23.0"
 
